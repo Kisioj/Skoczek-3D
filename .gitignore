@@ -1,0 +1,12 @@
+*.suo
+*.ncb
+*~
+*.orig
+Debug/
+Release/
+docs/
+*.obj
+*.pdb
+*.idb
+*.exe
+*.user
